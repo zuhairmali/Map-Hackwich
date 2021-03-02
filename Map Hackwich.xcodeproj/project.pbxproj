@@ -11,6 +11,7 @@
 		3FFF5F4B25ED4C8600DB8155 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFF5F4A25ED4C8600DB8155 /* ContentView.swift */; };
 		3FFF5F4D25ED4C8900DB8155 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFF5F4C25ED4C8900DB8155 /* Assets.xcassets */; };
 		3FFF5F5025ED4C8900DB8155 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFF5F4F25ED4C8900DB8155 /* Preview Assets.xcassets */; };
+		3FFF5F5925ED528800DB8155 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFF5F5825ED528800DB8155 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FFF5F4C25ED4C8900DB8155 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FFF5F4F25ED4C8900DB8155 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FFF5F5125ED4C8900DB8155 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FFF5F5825ED528800DB8155 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3FFF5F4825ED4C8600DB8155 /* Map_HackwichApp.swift */,
 				3FFF5F4A25ED4C8600DB8155 /* ContentView.swift */,
+				3FFF5F5825ED528800DB8155 /* LocationManager.swift */,
 				3FFF5F4C25ED4C8900DB8155 /* Assets.xcassets */,
 				3FFF5F5125ED4C8900DB8155 /* Info.plist */,
 				3FFF5F4E25ED4C8900DB8155 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3FFF5F4B25ED4C8600DB8155 /* ContentView.swift in Sources */,
 				3FFF5F4925ED4C8600DB8155 /* Map_HackwichApp.swift in Sources */,
+				3FFF5F5925ED528800DB8155 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
